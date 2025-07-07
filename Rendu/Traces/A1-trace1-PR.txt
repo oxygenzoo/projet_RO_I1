@@ -1,0 +1,47 @@
+Entrez le nom du fichier (ou 0 pour quitter) : Matrice des Capacités:
+   0    9    5    7    0    0    0    0 
+   0    0    6    0    6    0    0    0 
+   0    0    0    0    0    7    0    0 
+   0    0    0    0    0    2    8    0 
+   0    0    3    0    0    0    0    8 
+   0    0    0    0    0    0    0   10 
+   0    0    0    0    0    3    0    5 
+   0    0    0    0    0    0    0    0 
+
+Choisissez l'algorithme de flot max:
+1 - Ford-Fulkerson (Edmond-Karp)
+2 - Pousser-Réétiqueter
+Votre choix: Réétiquetage du sommet 2, nouvelle hauteur = 1
+Réétiquetage du sommet 3, nouvelle hauteur = 1
+Réétiquetage du sommet 4, nouvelle hauteur = 1
+Envoi de 6 unités de flot du sommet 2 vers le sommet 5
+Réétiquetage du sommet 2, nouvelle hauteur = 2
+Envoi de 5 unités de flot du sommet 3 vers le sommet 6
+Envoi de 2 unités de flot du sommet 4 vers le sommet 6
+Envoi de 5 unités de flot du sommet 4 vers le sommet 7
+Réétiquetage du sommet 5, nouvelle hauteur = 1
+Réétiquetage du sommet 6, nouvelle hauteur = 1
+Réétiquetage du sommet 7, nouvelle hauteur = 1
+Envoi de 3 unités de flot du sommet 2 vers le sommet 3
+Réétiquetage du sommet 3, nouvelle hauteur = 2
+Envoi de 6 unités de flot du sommet 5 vers le sommet 8
+Envoi de 7 unités de flot du sommet 6 vers le sommet 8
+Envoi de 5 unités de flot du sommet 7 vers le sommet 8
+Envoi de 2 unités de flot du sommet 3 vers le sommet 6
+Réétiquetage du sommet 3, nouvelle hauteur = 3
+Envoi de 2 unités de flot du sommet 6 vers le sommet 8
+Envoi de 1 unités de flot du sommet 3 vers le sommet 2
+Réétiquetage du sommet 2, nouvelle hauteur = 4
+Envoi de 1 unités de flot du sommet 2 vers le sommet 3
+Réétiquetage du sommet 3, nouvelle hauteur = 5
+Envoi de 1 unités de flot du sommet 3 vers le sommet 2
+Réétiquetage du sommet 2, nouvelle hauteur = 6
+Envoi de 1 unités de flot du sommet 2 vers le sommet 3
+Réétiquetage du sommet 3, nouvelle hauteur = 7
+Envoi de 1 unités de flot du sommet 3 vers le sommet 2
+Réétiquetage du sommet 2, nouvelle hauteur = 8
+Envoi de 1 unités de flot du sommet 2 vers le sommet 3
+Réétiquetage du sommet 3, nouvelle hauteur = 9
+Envoi de 1 unités de flot du sommet 3 vers le sommet 1
+Flot maximal trouvé = 20
+Entrez le nom du fichier (ou 0 pour quitter) : 

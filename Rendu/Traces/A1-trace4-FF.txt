@@ -1,0 +1,19 @@
+Entrez le nom du fichier (ou 0 pour quitter) : Matrice des Capacités:
+   0    5    0    9    0    0    0    0 
+   0    0    7    0    0    0    0    0 
+   0    0    0    0    4    3    0    0 
+   0    0    4    0    0    6    5    0 
+   0    0    0    0    0    6    0    6 
+   0    0    0    0    0    0    0    5 
+   0    0    0    0    0    0    0    7 
+   0    0    0    0    0    0    0    0 
+
+Choisissez l'algorithme de flot max:
+1 - Ford-Fulkerson (Edmond-Karp)
+2 - Pousser-Relabeller
+Votre choix: Chemin augmentant trouvé avec flot = 5
+Chemin augmentant trouvé avec flot = 4
+Chemin augmentant trouvé avec flot = 4
+Chemin augmentant trouvé avec flot = 1
+Flot maximal trouvé = 14
+Entrez le nom du fichier (ou 0 pour quitter) : 

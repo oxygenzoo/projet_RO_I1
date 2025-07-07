@@ -1,0 +1,27 @@
+Entrez le nom du fichier (ou 0 pour quitter) : Matrice des Capacités:
+   0   15    8    0    0    0 
+   0    0   20    4   10    0 
+   0    0    0   15    4    0 
+   0    0    0    0   20    5 
+   0    0    5    0    0   15 
+   0    0    0    0    0    0 
+
+Matrice des Coûts:
+   0    4    4    0    0    0 
+   0    0    2    2    6    0 
+   0    0    0    1    3    0 
+   0    0    0    0    2    0 
+   0    0    3    0    0    0 
+   0    0    0    0    0    0 
+
+Entrez la valeur de flot désirée: Table de Bellman-Ford (dist):
+    0    4    4    5    7    5
+Chaîne augmentante trouvée, flot = 5
+Table de Bellman-Ford (dist):
+    0    4    4    5    7    7
+Chaîne augmentante trouvée, flot = 3
+Table de Bellman-Ford (dist):
+    0    4    6    6    8    8
+Chaîne augmentante trouvée, flot = 2
+Flot atteint = 10, Coût total = 62
+Entrez le nom du fichier (ou 0 pour quitter) : 
