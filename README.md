@@ -59,6 +59,8 @@ Projet/
 │   │   └── A1-trace010-MIN.txt
 ```
 
+Les fichiers flow_problem_n400 et flow_problem_n1000 n'ont pas pu être uploadé car ils sont trop lourds pour GitHub.
+
 ## Utilisation
 
 ### 1. Compiler les programmes en C
