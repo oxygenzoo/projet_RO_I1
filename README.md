@@ -29,7 +29,8 @@ Chaque algorithme est testé et comparé sur plusieurs instances aléatoires de 
 
 ## Structure du projet
 
-Projet_Flot/
+```
+Projet/
 ├── ennoncé
 ├── Rendu/
 │   ├── Algorithmes/  
@@ -56,7 +57,7 @@ Projet_Flot/
 │   │   └── A1-trace1-FF.txt
 │   │   └── ...
 │   │   └── A1-trace010-MIN.txt
-
+```
 
 ## Utilisation
 
